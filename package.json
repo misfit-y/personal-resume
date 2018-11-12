@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://personal-resume.github.io/"
+    "url": "git+https://github.com/misfit-y/personal-resume.github.io"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/misfit-y/personal-resume.github.io/issues"
   },
-  "homepage": "./",
+  "homepage": "https://github.com/misfit-y/personal-resume.github.io#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
