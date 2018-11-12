@@ -8,7 +8,7 @@
 
 ### 使用方法
 
-在线的项目展示效果可以点击链接： [React Animation Resume](https://github.com/misfit-y/preson-resume/index.html)
+在线的项目展示效果可以点击链接： [React Animation Resume](https://github.com/misfit-y/preson-resume/personal-resume.github.io)
 
 如果想在本地下载、编译、运行，可以参考以下命令：
 
