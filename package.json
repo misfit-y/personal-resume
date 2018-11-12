@@ -10,14 +10,14 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShiningDan/react-animation-resume.git"
+    "url": "git+https://github.com/misfit-y/personal-resume.github.io/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShiningDan/react-animation-resume/issues"
+    "url": "https://github.com/misfit-y/personal-resume.github.io/issues"
   },
-  "homepage": "https://github.com/ShiningDan/react-animation-resume#readme",
+  "homepage": "https://github.com/misfit-y/personal-resume.github.io/#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
